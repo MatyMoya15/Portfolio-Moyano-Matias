@@ -1,0 +1,30 @@
+div img{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.title{
+  text-align: center;
+  font-weight: 800;
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  margin-top: 100px;
+}
+
+.subtitle{
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+.avatar{
+  width: 1300px;
+  height: 500px;
+  margin-bottom: 0;
+}
+
